@@ -8,8 +8,8 @@ quick, efficient, and reliable solutions to common security challenges faced in 
 
 ## Installation
 
-`git clone https://github.com/yourusername/remediation-scripts.git
-cd remediation-scripts`
+`git clone https://github.com/yourusername/remediation-scripts.git`
+`cd remediation-scripts`
 
 ## Script Catalogue
 
